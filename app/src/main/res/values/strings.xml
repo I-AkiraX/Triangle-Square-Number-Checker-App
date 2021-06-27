@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TriSqChecker</string>
+    <string name="checkText">CHECK</string>
+    <string name="initialText">Check out your number is Triangular or Square!</string>
+    <string name="enterMsg">Enter here...</string>
+    <string name="enterNumber">Enter a number!</string>
+</resources>
